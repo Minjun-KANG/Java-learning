@@ -1,5 +1,5 @@
 # Java-learning
-This is the basic Java script. I learned in 2019. ex) class, Generic type, Interface, Thread.
+This is the basic Java. I learned in 2019. ex) class, Generic type, Interface, Thread.
 
 Hello, I am Minjun Kang. In this directory you will find simple Java syntax and some of the typical characteristics of OOP.
 
